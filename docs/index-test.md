@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown Kitchen Sink
+title: Glossary
 nav_order: 99
 ---
 
