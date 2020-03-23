@@ -11,13 +11,6 @@ nav_order: 2
 Use the Markdown Kitchen Sink in the sidebar to build the information below.
 {: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 # **Markdown Tasks**
 
 Your task here is to create a Markdown file which contains all the information below, sarting from **Task 1**
@@ -157,7 +150,7 @@ This second quote, from yet another absurdist comedian - Spike Milligan -  remin
 2. Introduce the image with why you like the animal. 
 3. Add alt-text for accessibility.
 
-## Dogs and me
+### Dogs and me
 
 I had a dog for all of my life until I left home. I remember all of them fondly, especially the one below, which I could ride. It wasn't easy in a small house with five kids and this beast.
 
