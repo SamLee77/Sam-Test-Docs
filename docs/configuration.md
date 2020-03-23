@@ -79,7 +79,7 @@ In the vicinity of | *insert your answer here*
 
 Turn a sentence like this: 
 
-Our Web site has made available many of the things you can use for making a decision on the best dentist.
+>Our Web site has made available many of the things you can use for making a decision on the best dentist.
 
 into this: 
 
