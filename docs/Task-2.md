@@ -19,3 +19,9 @@ In this section, you will be able to create an x using y.
 
 ---
 
+## Heading 1
+
+random text
+
+## Heading 2
+more random text
