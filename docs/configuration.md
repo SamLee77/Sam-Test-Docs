@@ -55,7 +55,7 @@ I had a dog for all of my life until I left home. I remember all of them fondly,
 
 ## **Task 3: Create a Table**
 
-Create a second level heading called "Tables are Fun"
+1. Create a second level heading called "Tables are Fun"
 
 > **Note**: The table should be the same as the one below, and you must insert the simplified version of the text on the left. The simplified version must be in *italics*.
 
@@ -73,9 +73,9 @@ In the vicinity of | *insert your answer here*
 
 ## **Task 4: Simplify these Phrases and Use Inline Code**
 
-Create a level 3 heading please, title "Conciseness Helps Web Readers"
+1. Create a level 3 heading please, title "Conciseness Helps Web Readers"
 
-Add an introductory phrase which states why you as a web reader expcet simple, concise writing.
+2. Add an introductory phrase which states why you as a web reader expect simple, concise writing.
 
 Turn a sentence like this: 
 
@@ -105,12 +105,12 @@ or with the highlighted elements like this this:
 ```javascript
 document.getElementById("demo").innerHTML = "Hello JavaScript";
 ```
-Please create a second level heading titled "Code Blocks Make Me Happy"
+1. Create a second level heading titled "Code Blocks Make Me Happy"
 
-Introduce two code blocks for two different langauges by stating what the code does.
+2. Introduce two code blocks for two different langauges by stating what the code does.
 
-For each code block, make sure to use the formatting for that code, as in the second example above. Markdown does this for you.
+3. For each code block, make sure to use the formatting for that code, as in the second example above. Markdown does this for you.
 
-Add a final statement in bold that states your current desire to finish this activity. Here is my example: 
+4. Add a final statement in bold that states your current desire to finish this activity. Here is my example: 
 
 **I am SO done.**
