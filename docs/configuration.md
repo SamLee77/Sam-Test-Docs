@@ -20,9 +20,9 @@ Use the Markdown Kitchen Sink in the sidebar to build the information below.
 ---
 # **Markdown Tasks**
 
-Your task here is to create a Markdown file which contains all the information below
+Your task here is to create a Markdown file which contains all the information below, sarting from **Task 1**
 
-Once you have created the file, use [the Mardkdown to pdf converter](https://www.markdowntopdf.com/) to save the file as a pdf. Upload both the markdown file and the pdf output to the Learning Hub Assignments Section.
+Once you have created the file, add it to your repository. Each of you should make one Markdown file. Add a new file to the docs folder, call it name-test.md. Add yaml front matter. Title - in the yaml front matter-  shoukd be **Test Markdown (Name)** so for me woudl be **Test Markdown Sam**
 
 ## **Task 1: Create a Second Level Heading Titled Famous Quotes** 
 
