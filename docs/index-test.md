@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting
+title: Markdown Kitchen Sink
 nav_order: 99
 ---
 
