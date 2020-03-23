@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Task 1
+title: Your Markdown Challenge
 nav_order: 2
 ---
 
-# Configuration
+# See if you can make the follwoing page in Markdown
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Use the Markdown Kitchen Sink in the sidebar to build the information below.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
