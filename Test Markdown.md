@@ -55,3 +55,5 @@ Below is a console log statement in JavaScript, used mainly to test your functio
 ```javascript
 console.log("Hi I'm monkey");
 ```
+
+<b>I like bananas!</b>
