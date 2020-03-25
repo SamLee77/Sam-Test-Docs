@@ -1,3 +1,4 @@
+# Task 1
 This first quote is a Maori (New Zealand) quote, which is perfect for today's world: 
 
 > Noho Tawhiti (Sit at a distance) Tu Kotahi (Stand As One)
@@ -16,6 +17,7 @@ Finally, this one is very nice. From [Steven Wright](https://www.brainyquote.com
 
 <hr>
 
+# Task 2
 ## My spirit animal.
 
 I love monkeys because they resemble me. - Choi.
