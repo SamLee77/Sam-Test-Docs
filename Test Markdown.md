@@ -28,7 +28,7 @@ I love monkeys because they resemble me. - Choi.
 ### Conciseness Helps Web Readers
 I like seeing simple, concise writing because I am a monkey.
 
-`At this point in time we can’t ascertain the reason as to why the screen door was left open.` <br>
+`At this point in time we can’t ascertain the reason as to why the screen door was left open.` <br><br>
 `There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.`
 
 # Task 5
