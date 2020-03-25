@@ -15,3 +15,9 @@ Finally, this one is very nice. From [Steven Wright](https://www.brainyquote.com
 > A lot of people are afraid heights. Not me, I'm afraid of widths.
 
 <hr>
+
+## My spirit animal.
+
+I love monkeys because they resemble me. - Choi.
+
+![alt text](https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg "Me")
