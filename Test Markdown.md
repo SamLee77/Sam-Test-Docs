@@ -28,7 +28,22 @@ I love monkeys because they resemble me. - Choi.
 ### Conciseness Helps Web Readers
 I like seeing simple, concise writing because I am a monkey.
 
-`At this point in time we can’t ascertain the reason as to why the screen door was left open.`
+`At this point in time we can’t ascertain the reason as to why the screen door was left open.` <br>
 `There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.`
 
+# Task 5
+## Code Blocks Make Me Happy
 
+Below is a print statement in python.
+
+```python
+print("I am a monkey")
+```
+
+<br>
+
+Below is a console log statement in JavaScript, used mainly to test your functions. Also to send hidden messsages.
+
+```javascript
+console.log("Hi I'm monkey");
+```
