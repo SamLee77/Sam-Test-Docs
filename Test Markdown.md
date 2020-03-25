@@ -23,3 +23,12 @@ Finally, this one is very nice. From [Steven Wright](https://www.brainyquote.com
 I love monkeys because they resemble me. - Choi.
 
 ![alt text](https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg "Me")
+
+# Task 4
+### Conciseness Helps Web Readers
+I like seeing simple, concise writing because I am a monkey.
+
+`At this point in time we can’t ascertain the reason as to why the screen door was left open.`
+`There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.`
+
+
