@@ -24,6 +24,14 @@ I love monkeys because they resemble me. - Choi.
 
 ![alt text](https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg "Me")
 
+# Jooney's Version of Task 3
+
+| Name          | Animal        | Price |
+| ------------- |:-------------:| -----:|
+| Jooney        | A cool dragon                    | $10000000000000000000 |
+| Choi          | monkey                           |   $12 |
+| Sam           | Fully developed human being      |    $10000000000000000000000000000 |
+
 # Task 4
 ### Conciseness Helps Web Readers
 I like seeing simple, concise writing because I am a monkey.
