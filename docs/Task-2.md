@@ -3,14 +3,14 @@ layout: default
 title: Create Sheets and Dashboards
 nav_order: 3
 has_children: false
-permalink: /docs/create
+permalink: https://cysong12.github.io/Tableau-Desktop-Public-Edition/docs/Task-2/
 ---
 
 # Create Sheets and Dashboards
 
 ---
 
-**1**. On the bottom-left side, we open our first worksheet ìsheet 1î.
+**1**. On the bottom-left side, we open our first worksheet ‚Äúsheet 1‚Äù.
 
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/create-sheets-and-dashboards-1.png?raw=true "Create Sheets and Dashboards 1")
 
@@ -26,34 +26,34 @@ permalink: /docs/create
 
 <br />
 
-**4**. To change to a different color scheme, click on the **[Color]** field and click the <b>EDIT COLORSÖ</b> button. 
+**4**. To change to a different color scheme, click on the **[Color]** field and click the <b>EDIT COLORS‚Ä¶</b> button. 
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-4.png?raw=true "Create Sheets and Dashboards 4")
 
 <br />
 
-**5**. An edit color window will pop up. We can choose our custom colors by clicking on the colored box on the right side or we can choose a preset color setting by clicking on the drop down selection on ìPalette:î.
+**5**. An edit color window will pop up. We can choose our custom colors by clicking on the colored box on the right side or we can choose a preset color setting by clicking on the drop down selection on ‚ÄúPalette:‚Äù.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-5.png?raw=true "Create Sheets and Dashboards 5")
 
->![Note](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/note-icon.png?raw=true "Tip") **Note**: To switch the gradient order, click on the checkbox next to ìReversedî..
+>![Note](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/note-icon.png?raw=true "Tip") **Note**: To switch the gradient order, click on the checkbox next to ‚ÄúReversed‚Äù..
 
 <br />
 
-**6**. Now that we are done with _sheet1_, we can name it by right-clicking the _sheet1_ label and clicking on rename. We will name it ìCO2 per Capitaî for this guide.
+**6**. Now that we are done with _sheet1_, we can name it by right-clicking the _sheet1_ label and clicking on rename. We will name it ‚ÄúCO2 per Capita‚Äù for this guide.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-6.png?raw=true "Create Sheets and Dashboards 6")
 
 <br />
 
-**7**. Now that we have made a world map with data, we will make an example of a time-series chart. Click on the button right next to the ìCO2 per Capitaî for a new worksheet.
+**7**. Now that we have made a world map with data, we will make an example of a time-series chart. Click on the button right next to the ‚ÄúCO2 per Capita‚Äù for a new worksheet.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-7.png?raw=true "Create Sheets and Dashboards 7")
 
 <br />
 
-**8**. Double-click on **[CO2 Per Capita (metres)]** field from the _Measures_ panel. This is our x-axis data for the graph. Then double-click on the **[Year]** field from the _Dimensions_ panel. This is our y-axis data for the graph. From the graph, we can observe that CO2 emissions have increased over time. Now letís drag **[Country Name]** to the canvas. We can see now that each line represents a country by hovering your mouse over a line on the graph. Clicking on it will highlight the line to become bolder while the other lines will become opaque. Once again, we can modify the colors of the lines. We can do this by dragging the **[CO2 Per Capita (metric Ö)]** field from the Measures _panel_ onto **[Color]** in the _Marks_ panel. A window will pop up like before, and we can customize it the same as before by either selecting a predefined color scheme or setting your own color scheme.
+**8**. Double-click on **[CO2 Per Capita (metres)]** field from the _Measures_ panel. This is our x-axis data for the graph. Then double-click on the **[Year]** field from the _Dimensions_ panel. This is our y-axis data for the graph. From the graph, we can observe that CO2 emissions have increased over time. Now let‚Äôs drag **[Country Name]** to the canvas. We can see now that each line represents a country by hovering your mouse over a line on the graph. Clicking on it will highlight the line to become bolder while the other lines will become opaque. Once again, we can modify the colors of the lines. We can do this by dragging the **[CO2 Per Capita (metric ‚Ä¶)]** field from the Measures _panel_ onto **[Color]** in the _Marks_ panel. A window will pop up like before, and we can customize it the same as before by either selecting a predefined color scheme or setting your own color scheme.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-8.png?raw=true "Create Sheets and Dashboards 8")
 
 <br />
 
-**9**. Now that we are done with the graph, we can rename it like we did with _sheet1_. Letís name it <b>ìCO2 Emission Changes Over Timeî</b>.
+**9**. Now that we are done with the graph, we can rename it like we did with _sheet1_. Let‚Äôs name it <b>‚ÄúCO2 Emission Changes Over Time‚Äù</b>.
 
 <br />
 
@@ -67,7 +67,7 @@ permalink: /docs/create
 
 <br />
 
-**12**. You can remove the legends by clicking on the ëclose button. We will remove it for this guide.
+**12**. You can remove the legends by clicking on the ‚Äòclose button. We will remove it for this guide.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-12.png?raw=true "Create Sheets and Dashboards 12")
 
 <br />
