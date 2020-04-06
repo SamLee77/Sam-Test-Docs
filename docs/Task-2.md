@@ -18,7 +18,7 @@ permalink: /docs/create
 <br />
 
 **2**. Drag one of the fields from the Dimensions panel into the canvas. For this example, we will use **[Country Name]**
->![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-2.png?raw=true "Create Sheets and Dashboards 2")
+>![abc](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-2.png?raw=true "Create Sheets and Dashboards 2")
 
 <br />
 <br />
