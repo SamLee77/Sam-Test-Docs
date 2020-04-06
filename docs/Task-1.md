@@ -16,6 +16,7 @@ nav_order: 2
 
 **1**. Select the data type on the left panel to use, in this excel we will be working with an excel file.
 ![](./assets/images/connecting-to-data-1.png "Connecting to Data 1")
+![](./assets/images/tip-indicator.png "Tip")
 
 <br>
 
