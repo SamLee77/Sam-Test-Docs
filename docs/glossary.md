@@ -10,28 +10,20 @@ permalink: /docs/glossary
 
 ---
 
-**Background process**: A process that runs independently and does not tie up the terminal.
+**Publish**: To deploy into another environment or platform.
 
-**Command Chaining**: A method of combining several different commands to execute in succession to produce an output.
+**Datasets**: A collection of one or more database tables where every column of a table corresponds to a particular variable, and each row represents a record of the corresponding data.
 
-**Command-line interface**: An interface used to process commands to a computer program in the form of lines of text.
+**Viz**: Visualizations that can be published or embedded on webs. 
 
-**Foreground process**: A process that is interactive and requires some type of input.
+**Dashboards**: A collection display of several worksheets and related information in a single place. It is mainly used for monitoring and speculating data altogether. The different data views are displayed all at once.
 
-**Graphical user interface**: A form of user interface that allows a user to process commands to a computer program in the form of icons and audio indicators.
+**Sheets**: Tableau uses a similar workbook and sheet file structure like Microsoft Excel. A workbook contains sheets and a sheet can be a worksheet, a dashboard, or a story.
 
-**Group**: A mechanism used in Linux to manage a computer systems users. Groups have unique numeric id and grant specific security and access to users.
+**Canvas**: The framework of a sheet.
 
-**Pipe**: A technique for passing information from one program to another.
+**Legends**: The data displayed in the graph's Y-axis; graph series.
 
-**Process**: An instance of a computer program that is currently being run on your system. Process contains the program code as well as the process acitivity.
+**X-axis**: The horizontal axis on a graph.
 
-**Root**: The user name or account that has access to all commands and files on a Linux-based system. Also referred to as the root user and superuser.
-
-**Stream**: A sequence of data elements made available over time. A stream processes data one at a time rather than all at once.
-
-**Sudo**: A utility for Linux-based systems that provides an efficient way to give users permission to perform root-level system commands. Sudo keeps a log of all commands and arguments.
-
-**Terminal**: Provides the user with a text-based interface for typing in commands.
-
-**Virtual Machine**: An emulated computer system running on top of your operating system.
+**Y-axis**: The vertical axis on a graph.
