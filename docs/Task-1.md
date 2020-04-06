@@ -15,9 +15,7 @@ nav_order: 2
 ---
 
 **1**. Select the data type on the left panel to use, in this excel we will be working with an excel file.
-![](./assets/images/connecting-to-data-1.png "Connecting to Data 1")
-![](./assets/images/tip-indicator.png "Tip")
-
+>![Log in](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/connecting-to-data-1.png "connect to Data 1")
 <br>
 
 **2**. Navigate to the data file saved in your hard drive and open it.
