@@ -11,8 +11,9 @@ permalink: /docs/create
 ---
 
 **1**. On the bottom-left side, we open our first worksheet “sheet 1”.
->![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/create-sheets-and-dashboards-1.png?raw=true "Create Sheets and Dashboards 1")
+>![hellodoesthiswork](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/create-sheets-and-dashboards-1.png?raw=true "Create Sheets and Dashboards 1")
 
+>![Published](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i3.png?raw=true "Published")
 <br>
 
 **2**. Drag one of the fields from the Dimensions panel into the canvas. For this example, we will use **[Country Name]**
