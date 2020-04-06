@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Markdown Kitchen Sink
+title: Troubleshooting
+has_children: false
 nav_order: 99
+permalink: /docs/glossary
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
