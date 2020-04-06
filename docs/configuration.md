@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Markdown Challenge
+title: Task 1
 nav_order: 2
 ---
 
