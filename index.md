@@ -87,11 +87,11 @@ These instructions use the following typographic conventions.
 | Panel label                          |  _Italics_    |     _Sheets_, _Dimensions_                              |
 | Panel field                          |   **[Bold]**  |**[CO2 per Capita]**, **[Country Name]**, **[Color]**    |
 
-![Tip Indicator](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png "Tip")
+![](./assets/images/tip-indicator.png "Tip")
 **Tip**: This is a tip indicator where useful tips are mentioned but are not necessarily required to know.
 <br>
 
-![Note Icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/note-icon.png "Note")
+![](./assets/images/note-icon.png "Note")
 **Note**:  This is a note icon to indicate that the following should be paid extra attention to.
 
 ---
