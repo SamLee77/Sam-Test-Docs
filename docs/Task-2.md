@@ -31,7 +31,7 @@ nav_order: 3
 **5**. An edit color window will pop up. We can choose our custom colors by clicking on the colored box on the right side or we can choose a preset color setting by clicking on the drop down selection on “Palette:”.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-5.png "Create Sheets and Dashboards 5")
 
-![](./assets/images/note-icon.png "Note")**Note**: To switch the gradient order, click on the checkbox next to “Reversed”.
+>![Note](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/note-icon.png?raw=true "Tip") **Note**: To switch the gradient order, click on the checkbox next to “Reversed”..
 
 <br>
 
@@ -71,8 +71,7 @@ nav_order: 3
 
 **13**. We can add more elements to the visualizations such as a title, images, and even webpages. Lets add a title to the visualization by dragging the **[Text]** field onto the top center side. An edit text window will pop up. Create whatever title you would like. Once we are satisfied with how the visualization appears, we can <b>publish it to the Tableau Public Server.</b>
 
-![](./assets/images/tip-indicator.png "Tip")
-**Tip**: You can always go back to the dashboard sheet during any time if you need to modify some changes.
+>![Tip icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png?raw=true "Tip") **Tip**: You can always go back to the dashboard sheet during any time if you need to modify some changes.
 
 
 
