@@ -17,7 +17,15 @@ Tableau is a fast and easy way to create interactive data visualizations with da
 
 ---
 
-### Table of contents
+## Table of contents
+
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#is-this-guide-for-you">Is This Guide For You</a>
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#software-versions">Software Versions</a>
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#prerequisites">Prerequisites</a>
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#why-use-tableau">Why Use Tableau</a>
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#public-edition-restrictions">Works On All Versions</a>
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#typographical-conventions">Typographical Conventions</a>
+- <a href="https://https://cysong12.github.io/Tableau-Desktop-Public-Edition/#conclusion">Conclusion</a>
 
 ## Is This Guide For You
 This guide is for anyone who requires converting data set files into interactive data visualizations. Basic computer knowledge and knowing how to organize data with Microsoft Excel sheets, text files, JSON files, PDF files, spatial files, or statistical files is required. 
