@@ -6,91 +6,84 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Sam Testing Some Markdown (remembering to use parallel headings)
-{: .fs-9 }
+# Introduction
+{: .no_toc }
+---
+The purpose of this document is to help you familiarize yourself on how to use Tableau Public, short for Tableau Desktop Public Edition. This section covers some basic concepts and requirements for you to follow the instructions with ease. 
 
-Here is Sam playing. 
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+Tableau is a fast and easy way to create interactive data visualizations with data set files and publish them to the web. Tableau Public is the Public edition of the Tableau software and is completely free to use. 
 
 ---
 
-## Getting started
+### Table of contents
 
-### Dependencies
+## Is This Guide For You
+This guide is for anyone who requires converting data set files into interactive data visualizations. Basic computer knowledge and knowing how to organize data with Microsoft Excel sheets, text files, JSON files, PDF files, spatial files, or statistical files is required. 
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
-### Quick start: Use as a GitHub Pages remote theme
-
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+This guide provides you with simple instructions and teaches the main functions of Tableau Public. By the end of this guide, you will learn how to:
+* Connect data sets,
+* Create sheets and dashboards, and
+* Publlish visualizations to the web.
 
 ---
 
-## About the project
+## Software Versions
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+This guide uses Tableau Desktop Public Edition 2020.1.2 64-bit on a Mac OS system
 
-### License
+<b>The guide uses Google Chrome, version 80.0.3987.149 (Official Build) (64-bit), to browse the web embedded with the sample data visualization.</b>
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+If you do not have Tableau Public, download the latest version [here](https://public.tableau.com/en-us/s/download)
 
-### Contributing
+---
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+## Prerequisites
 
-#### Thank you to the contributors of Just the Docs!
+To follow the instructions in this document, the following are required:
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+Note: While <b>Tableau</b> doesn't <b>support</b> Desktop <b>on Linux</b> just yet, you can still create your viz <b>on</b> your Mac or Windows machine and publish to <b>Tableau Linux</b> Server.
 
-### Code of Conduct
+Note: while data manipulation and data cleaning knowledge is recommended, you can still import a third party data set that has already done this for you without requiring these knowledge.
 
-Just the Docs is committed to fostering a welcoming community.
+* access to a computer with a keyboard and mouse/trackpad,
+* Windows OS or Mac OS,
+* an internet connection, 
+* a general understanding of basic computer tasks
+* some knowledge of data manipulation and data cleaning is recommended
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+---
+
+## Why use Tableau
+
+Tableau is one of the richest and fastest growing data visualization tool software in the business intelligence industry. Tableau Desktop allows you to customize charts and deploy it in a professional manner including reports. 
+<br>
+Tableau Desktop provides live data analysis which is done by providing connectivity to the Data Warehouse and other types of data files. The workbooks and dashboards created can be shared locally and publicly. The strongest feature of Tableau is its flexibility of input data file types which can be converted to many different types of interactive visualizations
+
+--- 
+
+## Public Edition Restrictions
+
+Tableau Desktop Public Edition is a free version of Tableau Desktop with limited features. It is built for cost-effective users. By the word "Public," it means that the workbooks created cannot be saved locally. It is saved to the Tableau's public cloud which can be viewed and accessed by anyone.
+<br>
+The Public Edition is best suited for individuals who want to learn how to utilize Tableau and/or want to share their data to the general public. Anyone can download and access the data through the cloud in this edition. Other editions of Tableau can be found [here] (https://www.tableau.com/products)
+
+---
+
+## Typographical Convention
+
+These instructions use the following typographic conventions.
+
+| Convention                           | Typeface      | Examples                                                |
+| :----                                | :----         | :----                                                   |
+| Panel label                          |  _Italics_    |     _Sheets_, _Dimensions_                              |
+| Panel field                          |   **[Bold]**  |**[CO2 per Capita]**, **[Country Name]**, **[Color]**    |
+
+
+
+---
+
+## Conclusion
+
+Tableau is a free, customizable, and fast software that converts datasets to interactive graphs. It is ideal for users who have large amounts of data and require visualization to see the bigger picture. Anyone who works in the business intelligence and data science industry rely on Tableau for handling data visualizations.
+
+Now that we know what Tableau can do, let's learn some of its main features by starting <b>how to connect datasets to Tableau.</b>
