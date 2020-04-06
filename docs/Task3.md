@@ -42,7 +42,7 @@ Whether it is for business or casual, exporting your dashboard into another type
 
 **4.** You can share this interactive visualization via social media or email, or you can simply copy the embed code for your personal or business website by clicking on the share icon button.
 
->![Share](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i4.png "Share")
+>![Share](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i4.png?raw=true "Share")
 <br />
 <br />
 
