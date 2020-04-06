@@ -17,7 +17,7 @@ permalink: /docs/data
 ---
 
 **1**. Select the data type on the left panel to use, in this excel we will be working with an excel file.
-![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/connecting-to-data-1.png?raw=true)
+![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/ctd1.png?raw=true)
 <br>
 
 **2**. Navigate to the data file saved in your hard drive and open it.
