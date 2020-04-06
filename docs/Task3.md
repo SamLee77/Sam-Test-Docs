@@ -6,17 +6,7 @@ has_children: false
 permalink: /docs/publish
 ---
 
-{: .fs-6 .fw-300 }
-
 # Publish visualizations to the web
-{: .no_toc }
-
----
-
-### Table of contents
-{: .no_toc .text-delta }
-* TOC
-{:toc}
 
 ---
 
