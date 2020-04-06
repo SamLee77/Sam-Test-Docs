@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting
+title: Glossary
 has_children: false
 nav_order: 99
 permalink: /docs/glossary
