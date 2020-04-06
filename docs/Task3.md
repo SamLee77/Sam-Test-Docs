@@ -33,7 +33,7 @@ Whether it is for business or casual, exporting your dashboard into another type
 <br />
 
 **2.** A login credential window will be prompt. If you already have an account, log in. If not, create an account for free and you will login automatically after the setup. 
->![Tip icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png "Tip"){: style="float:left" } **Tip**: You can store up to 10 GB of visualizations in the Tableau Public account.
+>![Tip icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png "Tip") **Tip**: You can store up to 10 GB of visualizations in the Tableau Public account.
 
 >![Log in](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i2.png "Log in")
 
@@ -56,7 +56,7 @@ Whether it is for business or casual, exporting your dashboard into another type
 <br />
 <br />
 
->![Tip icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png "Tip"){: style="float:left" } **Tip**: You can share your published viz to others by sharing the link.
+>![Tip icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png "Tip") **Tip**: You can share your published viz to others by sharing the link.
 
 This is the last and final instruction set in our guide.Your final viz should look similar to [this.](https://public.tableau.com/views/TableauPublic10Training-CO2EmissionsWorkbook/DeviceSpecificDashboard?:embed=y&:display_count=yes) 
 
