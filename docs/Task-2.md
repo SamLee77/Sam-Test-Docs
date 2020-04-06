@@ -11,6 +11,8 @@ nav_order: 3
 **1**. On the bottom-left side, we open our first worksheet “sheet 1”.
 >![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/create-sheets-and-dashboards-1.png?raw=true "Create Sheets and Dashboards 1")
 
+>![Save as](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i1.png?raw=true "Save as")
+
 <br>
 
 **2**. Drag one of the fields from the Dimensions panel into the canvas. For this example, we will use **[Country Name]**
