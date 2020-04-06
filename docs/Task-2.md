@@ -12,7 +12,7 @@ permalink: /docs/create
 
 **1**. On the bottom-left side, we open our first worksheet “sheet 1”.
 
-![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i1.png?raw=true "Create Sheets and Dashboards 1")
+>![hi](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/t3i1.png?raw=true "Create Sheets and Dashboards 1")
 
 <br />
 <br />
