@@ -3,7 +3,7 @@ layout: default
 title: Create Sheets and Dashboards
 nav_order: 3
 has_children: false
-permalink: https://cysong12.github.io/Tableau-Desktop-Public-Edition/docs/Task-2/
+permalink: /docs/create
 ---
 
 # Create Sheets and Dashboards
