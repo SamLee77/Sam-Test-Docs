@@ -48,6 +48,6 @@ Whether it is for business or casual, exporting your dashboard into another type
 
 >![Tip icon](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/assets/images/tip-indicator.png "Tip") **Tip**: You can share your published viz to others by sharing the link.
 
-This is the last and final instruction set in our guide.Your final viz should look similar to [this.](https://public.tableau.com/views/TableauPublic10Training-CO2EmissionsWorkbook/DeviceSpecificDashboard?:embed=y&:display_count=yes) 
+This is the last and final instruction set in our guide.Your final viz should look similar to [this.](https://public.tableau.com/profile/choi.song5537#!/vizhome/CO2EmissionsGuide/Dashboard1?publish=yes) 
 
 We thank you for going through the complete guide and hope you have learned how to utilize Tableau to implement great vizzes!
