@@ -2,7 +2,7 @@
 layout: default
 title: Glossary
 has_children: false
-nav_order: 99
+nav_order: 7
 permalink: /docs/glossary
 ---
 
