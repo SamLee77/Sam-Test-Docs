@@ -2,7 +2,6 @@
 layout: default
 title: Connecting to Data
 nav_order: 2
-has_children: false
 ---
 
 # Connecting to Data
