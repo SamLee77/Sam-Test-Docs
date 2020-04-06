@@ -16,7 +16,7 @@ has_children: false
 ---
 
 **1**. Select the data type on the left panel to use, in this excel we will be working with an excel file.
-![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd1.png?raw=true)
+![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd1.png?raw=true "connect to data 1")
 <br>
 
 **2**. Navigate to the data file saved in your hard drive and open it.
