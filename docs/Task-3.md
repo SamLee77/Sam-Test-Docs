@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Publish visualizations to the web
+title: Publish Visualizations to the Web
 nav_order: 4
 has_children: false
 permalink: /docs/publish
 ---
 
-# Publish visualizations to the web
+# Publish Visualizations to the Web
 
 ---
 
