@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connecting to data
+title: Connecting to Data
 nav_order: 2
 has_children: false
 permalink: /docs/connect
