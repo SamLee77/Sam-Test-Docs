@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Connecting to Data
+title: Connecting to data
 nav_order: 2
 has_children: false
+permalink: /docs/connect
 ---
 
 # Connecting to Data
@@ -16,15 +17,15 @@ has_children: false
 ---
 
 **1**. Select the data type on the left panel to use, in this excel we will be working with an excel file.
-![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd1.png?raw=true)
+>![Select](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd1.png?raw=true)
 <br>
 
 **2**. Navigate to the data file saved in your hard drive and open it.
-![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd2.png?raw=true)
+>![Navigate](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd2.png?raw=true)
 <br>
 
 **3**. Tableau will connect to the data file and you can open up the desired worksheet by dragging the sheet from the Sheets panel to the “Drag sheets here” box. For this example, let's drag **[CO2 Data Cleaned]** onto the canvas.
->![](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd3.png?raw=true)
+>![Drag](https://github.com/cysong12/Tableau-Desktop-Public-Edition/blob/gh-pages/docs/images/ctd3.png?raw=true)
 
 <br>
  
